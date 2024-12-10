@@ -1,0 +1,9 @@
+BuildServer/node_modules/
+s3-reverseproxy/node_modules/
+BuildServer/.env
+s3-reverseproxy/.env
+.env
+.DS_Store
+*.log
+output/
+s3-reverseproxy/cookmom/
